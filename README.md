@@ -4,6 +4,8 @@ Dev Jr, procurando a primeira oportunidade como desenvolvedor
 
 - 🌱 Formado no XP-40 da GAMA ACADEMY (JS, REACT, NODE.JS, EXPRESS.JS, MYSQL, CSS, HTML)
 - 🌱 Formado no bootcamp da GENERATION (.NET, C#, REACT, SQL)
+- 🌱 Formado em Direito
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas 
 - 😄 Pronouns: Ele/Dele
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=406343&height=180&section=header&text=Leonardo Sarto Conselheiro - Desenvolvedor Full Stack .NET &fontSize=30&fontColor=ECE7B4&animation=twinkling&fontAlignY=35"/> 
